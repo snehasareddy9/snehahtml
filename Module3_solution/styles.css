@@ -1,0 +1,41 @@
+/*#chicken-tile{
+    background-color: aquamarine;
+    
+} 
+#beef-tile{
+    background-color: aquamarine;
+    
+} 
+#sushi-tile{
+    background-color: aquamarine;
+    
+} */
+section{
+    background-color: aquamarine;
+
+}
+
+.menu{
+    text-align: center;
+    padding-bottom: 15px;;
+}
+
+.h3{
+    text-align: center;
+}
+
+.chickenp{
+    margin-bottom: 50px;
+}
+a:hover{
+    background-color:palevioletred;
+    text-decoration: none;
+
+}
+
+.navbar-toggler-icon{
+    background-color: peru;
+}
+nav{
+    height:90px;
+}
